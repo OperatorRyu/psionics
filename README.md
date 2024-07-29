@@ -1,4 +1,4 @@
-# psionics
+# Psionics
 A study into the psionic nature of humans on physical systems
 
 According to Bösch's meta-analysis (Examining psychokinesis: The interaction of human intention with random number generators, 2018) and a study conducted by the CIA (EVIDENCE FOR CONSCIOUSNESS-RELATED ANOMALIES IN RANDOM PHYSICAL SYSTEMS, 1989), there is strong evidence to support the theory that humans possess some form of psionic connection to information systems.
